@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HumanizeAI - Document Humanizer",
+  "description": "An intelligent tool that transforms rigid, AI-generated, or complex documents into natural, human-readable text using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
